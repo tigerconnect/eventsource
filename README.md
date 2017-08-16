@@ -38,6 +38,13 @@ window.EventSource // Unchanged if browser has defined it. Otherwise, same as wi
 If you're using [webpack](https://webpack.github.io/) or [browserify](http://browserify.org/)
 you can of course build your own. (The `example/eventsource-polyfill.js` is built with webpack).
 
+## Changes in tt-eventsource fork
+
+* Prevent double connections on error
+* Increase default retry interval to 60sec
+
+Original project: https://github.com/EventSource/eventsource
+
 ## Extensions to the W3C API
 
 ### Setting HTTP request headers

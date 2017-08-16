@@ -1,6 +1,6 @@
 {
-  "name": "eventsource",
-  "version": "0.2.1",
+  "name": "tt-eventsource",
+  "version": "0.2.1-tt1",
   "description": "W3C compliant EventSource client for Node.js and browser (polyfill)",
   "keywords": [
     "eventsource",
@@ -9,11 +9,11 @@
     "sse",
     "polyfill"
   ],
-  "homepage": "http://github.com/aslakhellesoy/eventsource",
+  "homepage": "http://github.com/tigertext/eventsource",
   "author": "Aslak Hellesøy <aslak.hellesoy@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/aslakhellesoy/eventsource.git"
+    "url": "git://github.com/tigertext/eventsource.git"
   },
   "bugs": {
     "url": "http://github.com/aslakhellesoy/eventsource/issues"

@@ -42,6 +42,7 @@ you can of course build your own. (The `example/eventsource-polyfill.js` is buil
 
 * Prevent double connections on error
 * Increase default retry interval to 60sec
+* emit "connect" event with {response : res} object.  Useful for reading response statusCode & headers
 
 Original project: https://github.com/EventSource/eventsource
 

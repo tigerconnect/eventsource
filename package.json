@@ -1,6 +1,6 @@
 {
   "name": "tt-eventsource",
-  "version": "0.2.1-tt1",
+  "version": "0.2.1-tt2",
   "description": "W3C compliant EventSource client for Node.js and browser (polyfill)",
   "keywords": [
     "eventsource",
